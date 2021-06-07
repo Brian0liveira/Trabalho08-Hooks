@@ -34,7 +34,7 @@ const UseState = props => {
 
                 <button
                     className = "botao"
-                    onClick = { () => setMensagem('Olá ' + {nome} + ' ' + {sobrenome} + ', Seja Bem Vindo(a)!') }
+                    onClick = { () => setMensagem('Olá ' + nome + ' ' + sobrenome + ', Seja Bem Vindo(a)!') }
                 > OK </button>
 
                 <p className = "campo"> {mensagem} </p> 

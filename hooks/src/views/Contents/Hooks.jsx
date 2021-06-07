@@ -9,7 +9,7 @@ const Hooks = (props) => (
 
         <div className = "conteudo"> 
             <h2>
-                <a href="https://pt-br.react.js.org/docs/hooks-intro.html" target = "blank"> Documentação </a> 
+                <a href="https://pt-br.reactjs.org/docs/hooks-intro.html" target = "blank"> Documentação </a> 
             </h2>
         </div>
     </div>
